@@ -1,0 +1,74 @@
+body{
+
+    background-image: url(../Imatges/fons.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#hr
+{
+    border: 1px black solid;
+}
+#logo{
+    
+    height: 8%;
+    width: 8%;
+}
+
+#Nom
+{
+    width: 50%;
+}
+
+#Nom1
+{
+     width: 100px;
+}
+
+#Nom1:active {
+  transform: translateY(3px);
+}
+
+#Nom2
+{
+   font-size: 20px;
+     width: 100px;
+}
+
+#Nom2:active {
+  transform: translateY(3px);
+}
+
+#Nom3
+{
+   font-size: 20px;
+    width: 100%;
+}
+
+
+
+#td
+{
+    border: 1px black solid;
+    
+}
+
+#Links
+{
+    height: 60%;
+    width: 60%; 
+     z-index: 2;
+    background-image: url(../Unity/Imatges/marco.png);
+    background-size: 100% 100%;
+}
+
+
+
+#linkfoto
+{ 
+    height: 750px;
+    width: 350px;
+    border: 1px black solid;
+}
+
+
+

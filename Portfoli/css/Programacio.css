@@ -1,0 +1,128 @@
+body{
+
+    background-image: url(../Imatges/fons.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#hr
+{
+    border: 1px black solid;
+}
+#logo{
+    
+    height: 8%;
+    width: 8%;
+}
+
+#Nom
+{
+    width: 50%;
+}
+
+#Nom1
+{
+     width: 100px;
+}
+
+#Nom1:active {
+  transform: translateY(3px);
+}
+
+#Nom2
+{
+   font-size: 20px;
+     width: 100px;
+}
+
+#Nom2:active {
+  transform: translateY(3px);
+}
+
+#Nom3
+{
+   font-size: 20px;
+    width: 100%;
+}
+
+#Presentacio
+{
+    
+    position: relative;
+    height: 400px;
+    width: 850px;
+    
+}
+
+#Foto
+{
+    
+    height: 45%;
+    width: 45%;
+    border: 5px black inset;
+    
+}
+
+#td
+{
+    border: 1px black solid;
+    
+}
+
+#FotoProgramacio
+{
+    
+    height: 50%;
+    width: 79%;
+  
+}
+
+#Links
+{
+    position: absolute;
+    left: 1%;
+    top: 72%;
+    right: 1%;
+    height: 10%;
+    width: 90%; 
+     z-index: 3;
+}
+
+#Fotobarra
+{
+    position: absolute;
+    left: 0%;
+    top: 69%;
+    height: 27%;
+    width: 100%;
+    opacity: 0.9;
+     z-index: 2;
+    
+}
+
+#linkfoto
+{ 
+    height: 20%;
+    width: 95%;
+}
+
+
+button {
+  border: 0;
+  background: #0087cc;
+  border-radius: 4px;
+  box-shadow: 0 5px 0 #006599;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 12px 20px;
+  transition: all .1s linear;
+  height: 30%;
+  width: 65%;
+    
+}
+button:active {
+  box-shadow: 0 2px 0 #006599;
+  transform: translateY(3px);
+}

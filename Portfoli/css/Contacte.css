@@ -1,0 +1,132 @@
+body{
+
+    background-image: url(../Imatges/fons.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 1025%;
+}
+#hr
+{
+    border: 1px black solid;
+}
+
+#Nom
+{
+    width: 50%;
+}
+
+#Nom1
+{
+     width: 100px;
+}
+
+#Nom1:active {
+  transform: translateY(3px);
+}
+
+#Nom2
+{
+   font-size: 20px;
+     width: 100px;
+}
+
+#Nom2:active {
+  transform: translateY(3px);
+}
+
+#Nom3
+{
+   font-size: 20px;
+    width: 100%;
+}
+
+#Presentacio
+{
+    
+    position: relative;
+    height: 400px;
+    width: 850px;
+    
+}
+
+#td
+{
+    border: 1px black solid;
+    
+}
+
+
+#Links
+{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    right: 10%;
+    height: 10%;
+    width: 70%; 
+     z-index: 3;
+}
+
+#Fotobarra
+{
+    position: absolute;
+    left: 0%;
+    top: 20%;
+    height: 75%;
+    width: 100%;
+    opacity: 0.9;
+     z-index: 2;
+    
+}
+
+#Contacte{
+    
+    border: 0px white solid;
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    font-family: verdana;
+    color: white;
+}
+
+#informacio{
+    
+    border: 0px white solid;
+    width: 100px;
+    height: 220px;
+    font-size: 20px;
+    font-family: verdana;
+    color: white;
+}
+
+#Joan{
+    
+      font-size: 15px;
+    font-family: verdana;
+    color: white;
+    width: 400px;
+    height: 100px;
+}
+
+#Email{
+    
+    width: 75px;
+    height: 75px;
+}
+
+#correu{
+    
+    color: yellow;
+    font-size: 15px;
+}
+
+#home{
+    
+    color: white;
+    font-size: 15px;
+}
+
+#tel{
+    
+    color: white;
+    font-size: 15px;
+}

@@ -1,0 +1,325 @@
+body{
+
+    background-image: url(../Imatges/fons.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#hr
+{
+    border: 1px black solid;
+}
+#logo{
+    
+    height: 8%;
+    width: 8%;
+}
+
+#Nom
+{
+    width: 50%;
+}
+
+#Nom1
+{
+     width: 120px;
+}
+
+#Nom1:active {
+  transform: translateY(3px);
+}
+
+#Nom2
+{
+     width: 120px;
+}
+
+#Nom2:active {
+  transform: translateY(3px);
+}
+
+#Nom3
+{
+   font-size: 20px;
+    width: 100%;
+}
+
+#Presentacio
+{
+    
+    position: relative;
+    height: 400px;
+    width: 850px;
+    
+}
+
+#Foto
+{
+    
+    height: 45%;
+    width: 45%;
+    border: 5px black inset;
+    
+}
+
+#td
+{
+    border: 1px black solid;
+    
+}
+
+
+/* Media */
+
+#tablamedia
+{
+  height: 15%;
+    width: 100%;
+    border-bottom: 5px black inset;
+}
+
+#FotoMedia
+{
+    height: 270px;
+    width: 420px;
+}
+
+.trans #FototMedia:hover 
+{
+    transform: scale(2);
+    transition: all 3s;
+ }
+
+#FotoMedia2
+{
+    height: 300px;
+    width: 450px;
+}
+
+#Photoshop
+{
+    font-family: Brush Script MT ;
+    font-size: 40px;
+}
+
+/*Photoshop*/
+
+#FotoAmpliada
+{
+    
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    border: 2px black solid;
+    width: 1200px;
+    height: 800px;
+    
+}
+
+#FotoAmpliada2
+{
+    
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    border: 2px black solid;
+    width: 800px;
+    height: 800px;  
+}
+
+#ball
+{
+    position: absolute;
+    top: 93%;
+    left: 43%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+    
+}
+
+#ball2
+{
+    position: absolute;
+    top: 93%;
+    left: 48%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+}
+
+#ball3
+{
+    position: absolute;
+    top: 93%;
+    left: 53%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+}
+
+#ball4
+{
+    position: absolute;
+    top: 93%;
+    left: 58%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+}
+
+#creu
+{
+    position: absolute;
+    top: 11%;
+    left: 78%;
+   
+  height: 50px;
+  width: 50px;
+}
+
+
+/* Il·luminación */
+
+#FotoAmpliada3
+{
+    
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    border: 2px black solid;
+    width: 1200px;
+    height: 800px;  
+}
+
+#ballP
+{
+    position: absolute;
+    top: 113%;
+    left: 43%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+    
+}
+
+#ballP2
+{
+    position: absolute;
+    top: 113%;
+    left: 48%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+}
+
+#ballP3
+{
+    position: absolute;
+    top: 113%;
+    left: 53%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+}
+
+#ballP4
+{
+    position: absolute;
+    top: 113%;
+    left: 58%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+}
+
+#creu2
+{
+    position: absolute;
+    top: 31%;
+    left: 78%;
+   
+  height: 50px;
+  width: 50px;
+}
+
+
+/* Escultura */
+
+#FotoAmpliada4
+{
+    
+    position: absolute;
+    top: 75%;
+    left: 20%;
+    border: 2px black solid;
+    width: 1200px;
+    height: 800px; 
+    z-index: 2;
+}
+
+#ballE
+{
+    position: absolute;
+    top: 158%;
+    left: 43%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+    z-index: 2;
+    
+}
+
+#ballE2
+{
+    position: absolute;
+    top: 158%;
+    left: 48%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+    z-index: 2;
+}
+
+#ballE3
+{
+    position: absolute;
+    top: 158%;
+    left: 53%;
+    background: #66FFFF;
+    border-radius: 50%;
+    border: 2px black solid;
+  height: 50px;
+  width: 50px;
+    z-index: 2;
+}
+
+#creu3
+{
+    position: absolute;
+    top: 77%;
+    left: 78%;
+   
+  height: 50px;
+  width: 50px;
+    z-index: 3;
+}
